@@ -2,7 +2,7 @@
 
 # JARVIS AI Assistant
 
-![JARVIS Logo](link-to-your-logo-image.png)
+![JARVIS Logo](https://wallpapercave.com/wp/wp2133204.jpg)
 
 JARVIS AI Assistant is a virtual assistant project inspired by Tony Stark's JARVIS from the Iron Man movies. It utilizes speech recognition, AI chat, web browsing, and more.
 
@@ -74,7 +74,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/rajkishorbgp/JARVIS-AI-Assistant/blob/main/LICENSE.txt) file for details.
 
 ## Acknowledgments
 
